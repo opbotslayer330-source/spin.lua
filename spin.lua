@@ -4,7 +4,8 @@ local rewards = {
     {name = "Common Fruit", chance = 70},
     {name = "Rare Fruit", chance = 20},
     {name = "Legendary Fruit", chance = 8},
-    {name = "Mythical Fruit", chance = 2}
+    {name = "Mythical Fruit", chance = 2
+0.1}
 }
 
 function Spin.Roll(player)
